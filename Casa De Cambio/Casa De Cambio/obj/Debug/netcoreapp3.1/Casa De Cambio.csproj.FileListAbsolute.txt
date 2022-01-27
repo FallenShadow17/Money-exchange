@@ -1,0 +1,14 @@
+C:\Users\Red Ryan\source\repos\Casa De Cambio\Casa De Cambio\bin\Debug\netcoreapp3.1\Casa De Cambio.exe
+C:\Users\Red Ryan\source\repos\Casa De Cambio\Casa De Cambio\bin\Debug\netcoreapp3.1\Casa De Cambio.deps.json
+C:\Users\Red Ryan\source\repos\Casa De Cambio\Casa De Cambio\bin\Debug\netcoreapp3.1\Casa De Cambio.runtimeconfig.json
+C:\Users\Red Ryan\source\repos\Casa De Cambio\Casa De Cambio\bin\Debug\netcoreapp3.1\Casa De Cambio.runtimeconfig.dev.json
+C:\Users\Red Ryan\source\repos\Casa De Cambio\Casa De Cambio\bin\Debug\netcoreapp3.1\Casa De Cambio.dll
+C:\Users\Red Ryan\source\repos\Casa De Cambio\Casa De Cambio\bin\Debug\netcoreapp3.1\Casa De Cambio.pdb
+C:\Users\Red Ryan\source\repos\Casa De Cambio\Casa De Cambio\obj\Debug\netcoreapp3.1\Casa De Cambio.csproj.AssemblyReference.cache
+C:\Users\Red Ryan\source\repos\Casa De Cambio\Casa De Cambio\obj\Debug\netcoreapp3.1\Casa De Cambio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Red Ryan\source\repos\Casa De Cambio\Casa De Cambio\obj\Debug\netcoreapp3.1\Casa De Cambio.AssemblyInfoInputs.cache
+C:\Users\Red Ryan\source\repos\Casa De Cambio\Casa De Cambio\obj\Debug\netcoreapp3.1\Casa De Cambio.AssemblyInfo.cs
+C:\Users\Red Ryan\source\repos\Casa De Cambio\Casa De Cambio\obj\Debug\netcoreapp3.1\Casa De Cambio.csproj.CoreCompileInputs.cache
+C:\Users\Red Ryan\source\repos\Casa De Cambio\Casa De Cambio\obj\Debug\netcoreapp3.1\Casa De Cambio.dll
+C:\Users\Red Ryan\source\repos\Casa De Cambio\Casa De Cambio\obj\Debug\netcoreapp3.1\Casa De Cambio.pdb
+C:\Users\Red Ryan\source\repos\Casa De Cambio\Casa De Cambio\obj\Debug\netcoreapp3.1\Casa De Cambio.genruntimeconfig.cache
